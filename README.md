@@ -5,5 +5,6 @@
    - ㅇㅇㅇ
 
 2. 이벤트스토밍 모델
-3. 
+https://github.com/summerya92/stmall-seonmi/issues/1#issue-1980710032
+
 
